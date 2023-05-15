@@ -26,6 +26,10 @@ public class Basic_calculator {
             case "division":
                 System.out.println("Division of two numbers" + (a / b));
                 break;
+
+            default: {
+                System.out.println("Error");
+            }
         }
 
 
