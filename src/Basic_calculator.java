@@ -31,7 +31,7 @@ public class Basic_calculator {
                 System.out.println("Error");
             }
             System.out.println("Percentage");
-
+            System.out.println("Added Information in it");
         }
 
 
