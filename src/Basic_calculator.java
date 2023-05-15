@@ -23,6 +23,9 @@ public class Basic_calculator {
                 System.out.println("Multiplication of two numbers" + (a * b));
                 break;
 
+            case "division":
+                System.out.println("Division of two numbers" + (a / b));
+                break;
         }
 
 
