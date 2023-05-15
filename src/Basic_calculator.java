@@ -30,6 +30,7 @@ public class Basic_calculator {
             default: {
                 System.out.println("Error");
             }
+            System.out.println("Percentage");
         }
 
 
