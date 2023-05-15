@@ -33,6 +33,7 @@ public class Basic_calculator {
             System.out.println("Percentage");
             System.out.println("Tester");
             System.out.println("Commands from here itself");
+            System.out.println("Commands check");
         }
 
 
