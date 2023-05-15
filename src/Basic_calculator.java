@@ -32,6 +32,7 @@ public class Basic_calculator {
             }
             System.out.println("Percentage");
             System.out.println("Added data in Tarun");
+            System.out.println("Tarun Kumar");
         }
 
 
